@@ -14,7 +14,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
-* My primary coding language: C++, Rxuby
+* My primary coding language: C++, Ruby
 * Earned Gold badge & 5 star at HackerRank in C++ programming.
 * Passionate for learning & exploring new Tech.
 
